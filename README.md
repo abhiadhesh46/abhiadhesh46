@@ -1,8 +1,8 @@
-<h1 align="center">Hi there 👋, I'm Abhi Adhesh G.</h1>
+<h1 align="center">Hi there 👋, I'm Abhi Adhesh </h1>
 <h3 align="center">📊 Data Analyst | 💻 Python Enthusiast | 📈 Insight Seeker</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="300" alt="Data flowing abstract gif"/>
+  <img src="https://media.giphy.com/media/3o6Yg4GUVgIUg3bf7W/giphy.gif?cid=ecf05e47nowsc5fkk1coxab2a7gasi2ojiti33bdmtwlgo8y&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300" alt="Data flowing abstract gif"/>
 </p>
 
 ---
