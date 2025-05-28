@@ -35,9 +35,9 @@
 
 | 📁 Project | 🔍 Description |
 |-----------|----------------|
-| [🏏 IPL EDA](https://github.com/yourusername/ipl_eda) | Exploratory Data Analysis on IPL datasets using Pandas, Matplotlib, and Seaborn to uncover match trends, team performance, and player insights. |
-| [🎵 Spotify Data Insights](https://github.com/yourusername/spotify-analysis) | Visualizing listening behavior and top genres using Python and Matplotlib. |
-| [🍿 IMDb Data Analysis](https://github.com/yourusername/imdb-analysis) | Analyzing IMDb movie data for patterns in ratings, genres, and success metrics. |
+| [🏏 IPL EDA](https://github.com/abhiadhesh46/ipl-eda-project) | Exploratory Data Analysis on IPL datasets using Pandas, Matplotlib, and Seaborn to uncover match trends, team performance, and player insights. |
+| [🎵 Spotify Data Insights](https://github.com/abhiadhesh46/spotify-eda) | Visualizing listening behavior and top genres using Python and Matplotlib. |
+| [🍿 IMDb Data Analysis](https://github.com/abhiadhesh46/imdb_eda) | Analyzing IMDb movie data for patterns in ratings, genres, and success metrics. |
 | [📊 E-commerce SQL Case Study](https://github.com/yourusername/ecommerce-sql-project) | Advanced SQL queries to derive customer and sales insights. |
 
 ---
