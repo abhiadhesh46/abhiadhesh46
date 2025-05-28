@@ -2,7 +2,7 @@
 <h3 align="center">📊 Data Analyst | 💻 Python Enthusiast | 📈 Insight Seeker</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300" alt="data analysis gif"/>
+  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="300" alt="Data flowing abstract gif"/>
 </p>
 
 ---
